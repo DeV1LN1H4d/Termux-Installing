@@ -1,2 +1,11 @@
-# Termux-Installing
-Termux pkg install 
+# install
+
+* `pkg install python -y`
+
+* `pkg install git -y`
+
+* `git clone https://github.com/DeV1LN1H4d/Termux-Installing`
+
+* `cd Termux-Installing`
+
+* `python install.py`
