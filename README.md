@@ -1,6 +1,5 @@
 # install
 
-* `pkg install python -y`
 
 * `pkg install git -y`
 
@@ -8,4 +7,4 @@
 
 * `cd Termux-Installing`
 
-* `python install.py`
+* `python setup.sh`
