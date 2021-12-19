@@ -7,4 +7,4 @@
 
 * `cd Termux-Installing`
 
-* `python setup.sh`
+* `bash setup.sh`
