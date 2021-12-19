@@ -7,4 +7,4 @@
 
 * `cd Termux-Installing`
 
-* `bash setup.sh`
+* `bash Setup.sh`
